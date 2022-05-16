@@ -131,3 +131,15 @@ html{
     color: #fafafa;
     margin-left: 6px;
 }
+.authorInfWrapper{
+    flex-grow: 1;
+    margin-left: 6px;
+}
+.authorTVR{
+    display: flex;
+    justify-content: space-between;
+}
+.favoriteIconActivate{
+    color: #FED666;
+    display: none;
+}
